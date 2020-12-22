@@ -1,2 +1,2 @@
-# vanilla
+# vanilla-projects
  
